@@ -1,0 +1,38 @@
+.anchor{
+    color: #5E3A9E;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.contact_container{
+    margin: 6vw 8.04vw 20vw;
+    color: gray;
+    font-size: 2rem;
+    font-weight: 100;
+
+}
+
+.contact{
+    border-style: none none solid none;
+    border-color:  #5E3A9E;
+    padding-bottom: 1rem;
+}
+.contact_content{
+    font-size: 1.5rem;
+}
+.contact_content p {
+    margin: 1rem 0;
+}
+.paragraph{
+    font-weight: bold;
+    
+}
+@media screen and (max-width: 992px){
+    .contact_container{
+        font-size: 4vw;
+    }
+    
+}
+/* contact part over */
