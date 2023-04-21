@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kakinada_web/static/css/main.92ed82ed.css",
+    "main.js": "/kakinada_web/static/js/main.d8d31f59.js",
+    "static/media/person.png": "/kakinada_web/static/media/person.b4d2574b9c47fc983ce8.png",
+    "static/media/Logo.png": "/kakinada_web/static/media/Logo.fbb7990ef4766d4cf629.png",
+    "static/media/Appimage.png": "/kakinada_web/static/media/Appimage.cfb1f0770c6065a48bbb.png",
+    "index.html": "/kakinada_web/index.html",
+    "main.92ed82ed.css.map": "/kakinada_web/static/css/main.92ed82ed.css.map",
+    "main.d8d31f59.js.map": "/kakinada_web/static/js/main.d8d31f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ed82ed.css",
+    "static/js/main.d8d31f59.js"
+  ]
+}
