@@ -9,10 +9,10 @@ const App = () => {
     <>
       <Routes>
         <Route exact path="kakinada_web/" element={<LandingPage />} />
-        <Route path="kakinada_web/contact" element={<Contact />} />
-        <Route path="kakinada_web/privacy" element={<Privacy />} />
-        <Route path="kakinada_web/terms" element={<Terms />} />
-        <Route path="kakinada_web/faq" element={<Faq />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/privacy" element={<Privacy />} />
+        <Route path="/terms" element={<Terms />} />
+        <Route path="/faq" element={<Faq />} />
       </Routes>
     </>
   );
